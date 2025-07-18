@@ -1,0 +1,4 @@
+   user1@example.com  
+user2@EXAMPLE.COM
+User3@example.com 
+user4@Example.Com  
