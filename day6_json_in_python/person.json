@@ -1,0 +1,8 @@
+{
+  "name": "Hemanth",
+  "age": 28,
+  "address": {
+    "city": "Hyderabad",
+    "pin": 500001
+  }
+}

@@ -1,0 +1,15 @@
+🔹 Part 1: Reading and Writing CSV Files
+Read CSV using plain Python and csv module
+
+Write cleaned data to a new CSV
+
+🔹 Part 2: Data Cleaning Concepts
+Strip whitespace
+
+Remove empty lines
+
+Filter invalid rows
+
+Normalize case (upper/lower)
+
+🔹 Part 3: Hands-on Task – Clean a Dirty CSV
