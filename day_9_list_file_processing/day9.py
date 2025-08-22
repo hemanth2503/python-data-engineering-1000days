@@ -1,5 +1,5 @@
 ''' 
-    Day 9: Working with Files + Lists Togethe
+    Day 9: Working with Files + Lists Together
     Read data from a file into a list
     Process that list (filter, transform, search, etc.)
     Write the processed result back to another file
@@ -27,7 +27,7 @@ with open("squared_numbers.txt", "w") as f:
 
 
 
-# Example 2: Example 2: Names processing
+# Example 2: Names processing
 with open("names.txt", "r") as f:
     rawlines = f.readlines()
 print("Raw names", rawlines)    
