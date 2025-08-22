@@ -1,0 +1,2 @@
+Sum = 50
+Average = 12.5
